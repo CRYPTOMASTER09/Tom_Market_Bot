@@ -164,8 +164,16 @@ def check_elig():
 def start():
     print(r"""
         
-                    TOMARKET BOT
-    find new airdrop & bot here: t.me/sansxgroup
+                    
+ ▗▄▄▖▗▄▄▖▗▖  ▗▖▗▄▄▖▗▄▄▄▖▗▄▖     ▗▖  ▗▖ ▗▄▖  ▗▄▄▖▗▄▄▄▖▗▄▄▄▖▗▄▄▖     
+▐▌   ▐▌ ▐▌▝▚▞▘ ▐▌ ▐▌ █ ▐▌ ▐▌    ▐▛▚▞▜▌▐▌ ▐▌▐▌     █  ▐▌   ▐▌ ▐▌    
+▐▌   ▐▛▀▚▖ ▐▌  ▐▛▀▘  █ ▐▌ ▐▌    ▐▌  ▐▌▐▛▀▜▌ ▝▀▚▖  █  ▐▛▀▀▘▐▛▀▚▖    
+▝▚▄▄▖▐▌ ▐▌ ▐▌  ▐▌    █ ▝▚▄▞▘    ▐▌  ▐▌▐▌ ▐▌▗▄▄▞▘  █  ▐▙▄▄▖▐▌ ▐▌    
+                                                                   
+                                                                   
+                                                                   
+
+    find new airdrop & bot here: t.me/airdropconfirm97
               
         select this one :
         1. claim daily
